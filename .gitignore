@@ -1,0 +1,101 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE configuration
+.claude/
+.copilot/
+.idlerc/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# IPython
+.ipython/
+profile_default/
+ipython_config.py
+
+# Jupyter Lab
+.jupyter/
+jupyter_lab_config.py
+
+# Testing
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+
+# Local files
+*.log
+*.pot
+local_settings.py
+
+# Windows
+NTUSER.DAT
+NTUSER.DAT*
+*.TM.blf
+*.TMContainer*
+.gitconfig
+
+# User directories (Windows-specific)
+AppData/
+Downloads/
+Music/
+Videos/
+Favorites/
+Links/
+Contacts/
+Searches/
+3D\ Objects/
+Saved\ Games/
+Make\ an\ AI/
+
+# Project-specific files
+basis.py
+untitled.py
+Untitled.ipynb
+Suite\ NCH\ Software/
+PycharmProjects/
+Zotero/
